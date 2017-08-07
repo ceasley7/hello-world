@@ -1,3 +1,3 @@
 # hello-world
-Learning
+Learning:
 I enjoy hiking.
